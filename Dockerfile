@@ -1,4 +1,4 @@
-FROM    debian:wheezy
+FROM ubuntu:trusty
 MAINTAINER Josh Cox <josh 'at' webhosting coop>
 
 RUN apt-get -y update
